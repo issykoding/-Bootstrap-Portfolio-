@@ -1,0 +1,83 @@
+* .card-deck{
+    position:absolute;
+  width: 700px;
+  height:auto;
+  left: 250px;
+  top: 600px;
+
+}
+
+
+.card1{
+    position: absolute;
+width: 900px;
+height: 1000px;
+left: 325px;
+top: 1800px;
+
+}
+
+.card2{
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 325px;
+    top:2500px;
+    
+}
+
+.card-deck{
+    width: 1000px;
+    height: 0px;
+    align-items:center;
+    justify-content: space-between;
+    
+}
+
+.card3 img{
+    size: 10px;
+    height: 250px;
+
+}
+
+.card4 img{
+    height: 250px;
+    width: 300px;
+    left: 50px;
+}
+
+
+.card5 img{
+    size: 5px;
+    height: 250px;
+    width: 200px;
+}
+
+.skillstext{
+    text-align: center;
+    font-size: 100px;
+    font-weight:lighter;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.jumbotron{
+    background: url("../images/headback.jpg");
+    background-size: cover;
+}
+
+.card6{
+    justify-content: flex-end;
+}
+
+.mywork{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+}
+
+.navbar-brand img{
+width: 50px;
+height: 40px;
+}
+
